@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="header"></div>
+
+    <div class="main-content">
+        <div class="attendance-container">
+            <div class="event-info">
+                <!-- <table>
+                    <tr>
+                        <td>Event Title: </td>
+                        <td>Test 1</td>
+                        <td><button class="remove_participant">Remove Participant</button></td>
+                    </tr>
+                    <tr>
+                        <td>Appliaction Due Date:</td>
+                        <td>22-22-2022 13:13</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>Event Date:</td>
+                        <td>22-22-2022 13:13</td>
+                        <td rowspan="2"><button class="generate_qr">Attendnace <br>QR Code</button></td>
+                    </tr>
+                    <tr>
+                        <td>Nature:</td>
+                        <td>Public</td>
+                        <td></td>
+                    </tr>
+                </table> -->
+            </div>
+
+
+            <div class="attendance">
+                <table>
+                    <tr>
+                        <th><label for="select_all"><input type="checkbox" name="select_all" id="select_all"></label></th>
+                        <th>No.</th>
+                        <th>Name</th>
+                        <th>Apply Date</th>
+                        <th>Attendance</th>
+                    </tr>
+                    <!-- <tr>
+                        <td><label for="cb_1"><input type="checkbox" name="selected" id="cb_1"></label></td>
+                        <td>1</td>
+                        <td>Ken Chan</td>
+                        <td>22-22-2022</td>
+                        <td>19:19</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><input type="checkbox" name="selected"></td>
+                        <td>2</td>
+                        <td></td>
+                        <td></td>
+                        <td>Not Start</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td><input type="checkbox" name="selected"></td>
+                        <td>3</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr> -->
+                </table>
+            </div>
+
+        </div>
+    </div>
+
+
+    <div class="qr-container">
+        <div class="qr">
+            <h1>Attendance QR Code</h1>
+            <div class="image">
+                <img src="" alt="">
+            </div>
+            <button class="close-btn">Close</button>
+        </div>
+    </div>
+
+    <div class="dialogue">
+        <div class="heading">Remove Participants</div>
+        <div class="content">
+            <p>You are trying to remove selected participant.</p>
+            <p>This act is not recoverable, but they can enroll to the event again.</p>
+            <p>Click Yes to continue.</p>
+        </div>
+        <div class="button">
+            <button class="yes-btn" event_id="">Yes</button>
+            <button class="no-btn" event_id="">No</button>
+        </div>
+    </div>
+
+
+    <div id="footer"></div>
+
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="./javascript/include.js"></script>
+    <script type="module" src="javascript/firebase.js"></script>
+    <script type="module" src="javascript/attendance.js"></script>
+
+</body>
+
+</html>

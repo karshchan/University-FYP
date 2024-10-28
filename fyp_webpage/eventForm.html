@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="header"></div>
+
+    <div class="main-content">
+       <div id="event-form-container">
+            <form action="" method="post" class="input-form">
+                <span class="form-title">Create Event</span>
+
+                <div class="input-data">
+                    <div class="input-box">
+                        <label for="title">Event Name</label>
+                        <input type="text" id="title" name="title" required>
+    
+                    </div>
+                            
+                    <div class="input-box toggle-btn">
+                        <label for="private">
+                            <span>Private Event</span>
+                            <input type="checkbox" id="private" name="private" class="toggle" checked>
+                            <span class="slider"></span>
+                        </label>
+                    </div>
+
+                    <div class="input-box">
+                        <label for="description">Description</label>
+                        <textarea name="description" id="description" cols="30" rows="10" required></textarea>
+                    </div>
+
+                    <div class="input-box">
+                        <label for="datetime">Event Date and time</label>
+                        <input type="datetime-local" id="datetime" name="datetime"></input>
+                    </div>
+
+                    <div class="input-box">
+                        <label for="due-date">Application Due Date</label>
+                        <input type="datetime-local" id="due-date" name="due-date"></input>
+                    </div>
+
+                    <div class="input-box toggle-btn email">
+                        <label for="use-email">
+                            <span>Use Account Email</span>
+                            <input type="checkbox" id="use-email" name="use-email" class="toggle" checked>
+                            <span class="slider"></span>
+                        </label>
+                    </div>
+
+                    <div class="input-box optional email">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email">
+                    </div>
+
+                    <div class="input-box toggle-btn contact">
+                        <label for="use-contact">
+                            <span>Use Account Contact Number</span>
+                            <input type="checkbox" id="use-contact" name="use-contact" class="toggle" checked>
+                            <span class="slider"></span>
+                        </label>
+                    </div>
+
+                    <div class="input-box optional contact">
+                        <label for="contact">Contact Number</label>
+                        <input type="text" id="contact" name="contact">
+                    </div>
+
+
+                    <div>
+                        <button class="submit-btn" type="button">
+                            Create
+                        </button>
+                    </div>
+                </div>
+            </form>
+       </div>
+    </div>
+
+    <div id="footer"></div>
+
+    <script type="module" src="javascript/firebase.js"></script>
+
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="./javascript/include.js"></script> 
+    <script type="module" src="./javascript/eventForm.js"></script> 
+
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,45 @@
+{
+    "Users": [
+        {
+            "email": "kenchan@gmail.com",
+            "contact": "68734649",
+            "organization_address": "",
+            "organization": "",
+            "first_name": "Ken",
+            "personal": true,
+            "password": "3s5S@6sf",
+            "last_name": "Chan",
+            "id": "2gFwUGSfXqR3l4BymDHwvCDofgJ3"
+        }, {
+            "personal": false,
+            "password": "s256@Ss69",
+            "contact": "65432178",
+            "first_name": "Karsh",
+            "last_name": "Chan",
+            "organization_address": "Floor 9/20",
+            "email": "qwer@gmail.com",
+            "organization": "QWE Comapny",
+            "id": "PCsK9eTGveaLDPmoCI95RqvuaFm2"
+        }, {
+            "first_name": "aa",
+            "password": "2s5S@6sf",
+            "personal": false,
+            "organization": "Wu Companyss",
+            "email": "danielwu@gmail.com",
+            "contact": "98765432",
+            "last_name": "bb",
+            "organization_address": "Central and Western District,Hongkong",
+            "id": "iOeEiCuxs2fuHvRAKVlkDu8gokb2"
+        }, {
+            "personal": true,
+            "organization": "",
+            "password": "123456Ss@@",
+            "first_name": "Clarence",
+            "email": "karshchan0110@gmail.com",
+            "last_name": "Lai",
+            "organization_address": "",
+            "contact": "69764857",
+            "id": "lnJbLvKNeBSAcgVzdHTX8EvbW7S2"
+        }
+    ]
+}

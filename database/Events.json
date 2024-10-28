@@ -1,0 +1,656 @@
+{
+    "Events": [{
+            "create_at": {
+                "seconds": 1712156175,
+                "nanoseconds": 88000000
+            },
+            "private": false,
+            "use_contact": true,
+            "email": "",
+            "description": "Nam Sang Wai in Yuen Long is famous for its pristine wetland ecology. In addition to being a popular holiday outing spot, it is also a good place for cycling. Cycling along the grassland covered with poplar trees, watching the herons on Shan Pui River and Kam Tin River in the distance, you can already feel a moment of tranquility away from the city. Nam Sang Wai has a wide range of cycling places. In addition to taking in the beautiful scenery of Kam Tin River, you can also go to the Wedding Photo Bridge at the other end of Nam Sang Wai to check in and take photos, or go to Heng Shui Ferry Pier to experience the simplicity. Natural scent.<br/><br/>Cycling time: 2 hours<br/><br/>Cycling route: Yuen Long Station > Shape Point > Tam Mei Section of Castle Peak Road > Hung Mo Bridge > Nam Sang Wai Road > Wedding Dress Bridge > Poplar Tree > Heng Shui Ferry > Yuen Long",
+            "use_email": true,
+            "title": "Nam Sang Wai Cycling",
+            "due_date": {
+                "seconds": 1713020160,
+                "nanoseconds": 773000000
+            },
+            "invitation_code": "E7HCA8T1VW29774U",
+            "event_date": {
+                "seconds": 1714056900,
+                "nanoseconds": 0
+            },
+            "holder": {
+                "converter": null,
+                "_key": {
+                    "path": {
+                        "segments": [
+                            "projects",
+                            "fyp-22205349",
+                            "databases",
+                            "(default)",
+                            "documents",
+                            "Users",
+                            "lnJbLvKNeBSAcgVzdHTX8EvbW7S2"
+                        ],
+                        "offset": 5,
+                        "len": 2
+                    }
+                },
+                "type": "document",
+                "firestore": {
+                    "app": {
+                        "_isDeleted": false,
+                        "_options": {
+                            "apiKey": "AIzaSyB8apFji3Q2zH30jZBKzOLU-E_Qw20rLNc",
+                            "authDomain": "fyp-22205349.firebaseapp.com",
+                            "projectId": "fyp-22205349",
+                            "storageBucket": "fyp-22205349.appspot.com",
+                            "messagingSenderId": "533140308687",
+                            "appId": "1:533140308687:web:3686b2a74cc0f3f11b2dba"
+                        },
+                        "_config": {
+                            "name": "[DEFAULT]",
+                            "automaticDataCollectionEnabled": false
+                        },
+                        "_name": "[DEFAULT]",
+                        "_automaticDataCollectionEnabled": false,
+                        "_container": {
+                            "name": "[DEFAULT]",
+                            "providers": {}
+                        }
+                    },
+                    "databaseId": {
+                        "projectId": "fyp-22205349",
+                        "database": "(default)"
+                    },
+                    "settings": {
+                        "host": "firestore.googleapis.com",
+                        "ssl": true,
+                        "ignoreUndefinedProperties": false,
+                        "cacheSizeBytes": 41943040,
+                        "experimentalForceLongPolling": false,
+                        "experimentalAutoDetectLongPolling": true,
+                        "experimentalLongPollingOptions": {},
+                        "useFetchStreams": true
+                    }
+                }
+            },
+            "contact": "",
+            "id": "JiZtzXPa2Ro8LzoOcV1Z",
+            "participants": [{
+                "user": {
+                    "converter": null,
+                    "_key": {
+                        "path": {
+                            "segments": ["projects", "fyp-22205349", "databases", "(default)", "documents", "Users", "2gFwUGSfXqR3l4BymDHwvCDofgJ3"],
+                            "offset": 5,
+                            "len": 2
+                        }
+                    },
+                    "type": "document",
+                    "firestore": {
+                        "app": {
+                            "_isDeleted": false,
+                            "_options": {
+                                "apiKey": "AIzaSyB8apFji3Q2zH30jZBKzOLU-E_Qw20rLNc",
+                                "authDomain": "fyp-22205349.firebaseapp.com",
+                                "projectId": "fyp-22205349",
+                                "storageBucket": "fyp-22205349.appspot.com",
+                                "messagingSenderId": "533140308687",
+                                "appId": "1:533140308687:web:3686b2a74cc0f3f11b2dba"
+                            },
+                            "_config": {
+                                "name": "[DEFAULT]",
+                                "automaticDataCollectionEnabled": false
+                            },
+                            "_name": "[DEFAULT]",
+                            "_automaticDataCollectionEnabled": false,
+                            "_container": {
+                                "name": "[DEFAULT]",
+                                "providers": {}
+                            }
+                        },
+                        "databaseId": {
+                            "projectId": "fyp-22205349",
+                            "database": "(default)"
+                        },
+                        "settings": {
+                            "host": "firestore.googleapis.com",
+                            "ssl": true,
+                            "ignoreUndefinedProperties": false,
+                            "cacheSizeBytes": 41943040,
+                            "experimentalForceLongPolling": false,
+                            "experimentalAutoDetectLongPolling": true,
+                            "experimentalLongPollingOptions": {},
+                            "useFetchStreams": true
+                        }
+                    }
+                },
+                "user_id": "2gFwUGSfXqR3l4BymDHwvCDofgJ3",
+                "arrival_time": {
+                    "seconds": 0,
+                    "nanoseconds": 0
+                },
+                "enroll_time": {
+                    "seconds": 1712915925,
+                    "nanoseconds": 211000000
+                },
+                "id": "H2O7SSoFhs5GT8Vfe3H9"
+            }]
+        },
+        {
+            "private": true,
+            "description": "Tai Mei Tuk is the most popular cycling route in Hong Kong. If you rent a bicycle from Sha Tin or Tai Wai, you can cycle along Tolo Harbor, passing through Tai Po and going to Tai Mei Tuk. The riverbanks along the way are beautiful, and you can reach every Tai Mei Tuk Dam. Cycling on the route offers you the peaceful scenery of Plover Cove Tamsui Lake, and the road is flat and easy to navigate, making it a fun and carefree trip. It is also a route for beginners to learn how to ride a bicycle. If you are interested, before going to Tai Mei Tuk Dyke, a good place for cycling, you can take a detour through Sam Mun Tsai to savor the simplicity of the ancient village, or cycle to the nearby Tsz Shan Temple to see the pure white Guanyin statue.<br/><br/>Cycling time: about 3 hours<br/><br/>Cycling route: Shatin＞Science Park＞Tai Po Waterfront Park＞Sam Mun Tsai＞Tsz Shan Temple＞Tai Mei Tuk＞Plover Cove Reservoir Dam",
+            "due_date": {
+                "seconds": 1713279360,
+                "nanoseconds": 0
+            },
+            "use_email": true,
+            "event_date": {
+                "seconds": 1714748100,
+                "nanoseconds": 0
+            },
+            "contact": "",
+            "create_at": {
+                "seconds": 1712915435,
+                "nanoseconds": 993000000
+            },
+            "email": "",
+            "invitation_code": "0OKOQ1O469P78105",
+            "title": "Tai Mei Tuk Cycling",
+            "holder": {
+                "converter": null,
+                "_key": {
+                    "path": {
+                        "segments": [
+                            "projects",
+                            "fyp-22205349",
+                            "databases",
+                            "(default)",
+                            "documents",
+                            "Users",
+                            "iOeEiCuxs2fuHvRAKVlkDu8gokb2"
+                        ],
+                        "offset": 5,
+                        "len": 2
+                    }
+                },
+                "type": "document",
+                "firestore": {
+                    "app": {
+                        "_isDeleted": false,
+                        "_options": {
+                            "apiKey": "AIzaSyB8apFji3Q2zH30jZBKzOLU-E_Qw20rLNc",
+                            "authDomain": "fyp-22205349.firebaseapp.com",
+                            "projectId": "fyp-22205349",
+                            "storageBucket": "fyp-22205349.appspot.com",
+                            "messagingSenderId": "533140308687",
+                            "appId": "1:533140308687:web:3686b2a74cc0f3f11b2dba"
+                        },
+                        "_config": {
+                            "name": "[DEFAULT]",
+                            "automaticDataCollectionEnabled": false
+                        },
+                        "_name": "[DEFAULT]",
+                        "_automaticDataCollectionEnabled": false,
+                        "_container": {
+                            "name": "[DEFAULT]",
+                            "providers": {}
+                        }
+                    },
+                    "databaseId": {
+                        "projectId": "fyp-22205349",
+                        "database": "(default)"
+                    },
+                    "settings": {
+                        "host": "firestore.googleapis.com",
+                        "ssl": true,
+                        "ignoreUndefinedProperties": false,
+                        "cacheSizeBytes": 41943040,
+                        "experimentalForceLongPolling": false,
+                        "experimentalAutoDetectLongPolling": true,
+                        "experimentalLongPollingOptions": {},
+                        "useFetchStreams": true
+                    }
+                }
+            },
+            "use_contact": true,
+            "id": "NyqFuPa9svkWvmc9VfG9"
+        },
+        {
+            "due_date": {
+                "seconds": 1712228340,
+                "nanoseconds": 953000000
+            },
+            "private": false,
+            "title": "Lugard Road Circular Walking Trail",
+            "invitation_code": "TOB00196OCEGXHF6",
+            "email": "",
+            "create_at": {
+                "seconds": 1712142076,
+                "nanoseconds": 597000000
+            },
+            "use_email": true,
+            "contact": "",
+            "description": "Lugard Road Circular Walking Trail<br/>Route: The Peak Pavilion → Lugard Road Circular Walking Trail → The Peak Pavilion<br/><br/>Length: 3.5 kilometers<br/><br/>Time required: about 1.5 hours<br/><br/>Starting point: Take bus, minibus or Peak Tram to The Peak Tower<br/><br/>End point: Take bus, minibus or Peak Tram to the city center<br/><br/>The Lugard Road Circular Walking Trail on the Peak has a history of over a century and is about 3.5 kilometers in length. The entire path is flat and there are no steps along the path, so it is not very high. It is also very suitable for wheelchairs, disabled people, the elderly, or those carrying BB cars. Of course, the biggest selling point of the trip is that you can enjoy the 270-degree view of both sides of Victoria Harbor!",
+            "use_contact": true,
+            "event_date": {
+                "seconds": 1711969140,
+                "nanoseconds": 89000000
+            },
+            "holder": {
+                "converter": null,
+                "_key": {
+                    "path": {
+                        "segments": [
+                            "projects",
+                            "fyp-22205349",
+                            "databases",
+                            "(default)",
+                            "documents",
+                            "Users",
+                            "lnJbLvKNeBSAcgVzdHTX8EvbW7S2"
+                        ],
+                        "offset": 5,
+                        "len": 2
+                    }
+                },
+                "type": "document",
+                "firestore": {
+                    "app": {
+                        "_isDeleted": false,
+                        "_options": {
+                            "apiKey": "AIzaSyB8apFji3Q2zH30jZBKzOLU-E_Qw20rLNc",
+                            "authDomain": "fyp-22205349.firebaseapp.com",
+                            "projectId": "fyp-22205349",
+                            "storageBucket": "fyp-22205349.appspot.com",
+                            "messagingSenderId": "533140308687",
+                            "appId": "1:533140308687:web:3686b2a74cc0f3f11b2dba"
+                        },
+                        "_config": {
+                            "name": "[DEFAULT]",
+                            "automaticDataCollectionEnabled": false
+                        },
+                        "_name": "[DEFAULT]",
+                        "_automaticDataCollectionEnabled": false,
+                        "_container": {
+                            "name": "[DEFAULT]",
+                            "providers": {}
+                        }
+                    },
+                    "databaseId": {
+                        "projectId": "fyp-22205349",
+                        "database": "(default)"
+                    },
+                    "settings": {
+                        "host": "firestore.googleapis.com",
+                        "ssl": true,
+                        "ignoreUndefinedProperties": false,
+                        "cacheSizeBytes": 41943040,
+                        "experimentalForceLongPolling": false,
+                        "experimentalAutoDetectLongPolling": true,
+                        "experimentalLongPollingOptions": {},
+                        "useFetchStreams": true
+                    }
+                }
+            },
+            "id": "iYayuGst3V92is64XH7r"
+        },
+        {
+            "use_contact": false,
+            "use_email": false,
+            "invitation_code": "OHA7E2U9GDMVRZO5",
+            "contact": "26694444",
+            "description": "The food basin culture is also known as the \"Poon Choi\" banquet, which is a type of chowder dish containing a variety of dishes in a round basin. The food bowl is a traditional clan activity of the local ethnic group. Its history can be traced back to the mid-to-late Ming Dynasty when the local clan was formed, with a history of more than 400 years. Poon Choi feasts are held every time there is a festive occasion or festival. Tribesmen sit together and eat together, which symbolizes unity, maintains feelings, and increases the sense of belonging and identification with the community. The lecture will share the story of this traditional food with you layer by layer.",
+            "private": false,
+            "event_date": {
+                "seconds": 1720591200,
+                "nanoseconds": 0
+            },
+            "due_date": {
+                "seconds": 1716479940,
+                "nanoseconds": 695000000
+            },
+            "holder": {
+                "converter": null,
+                "_key": {
+                    "path": {
+                        "segments": [
+                            "projects",
+                            "fyp-22205349",
+                            "databases",
+                            "(default)",
+                            "documents",
+                            "Users",
+                            "lnJbLvKNeBSAcgVzdHTX8EvbW7S2"
+                        ],
+                        "offset": 5,
+                        "len": 2
+                    }
+                },
+                "type": "document",
+                "firestore": {
+                    "app": {
+                        "_isDeleted": false,
+                        "_options": {
+                            "apiKey": "AIzaSyB8apFji3Q2zH30jZBKzOLU-E_Qw20rLNc",
+                            "authDomain": "fyp-22205349.firebaseapp.com",
+                            "projectId": "fyp-22205349",
+                            "storageBucket": "fyp-22205349.appspot.com",
+                            "messagingSenderId": "533140308687",
+                            "appId": "1:533140308687:web:3686b2a74cc0f3f11b2dba"
+                        },
+                        "_config": {
+                            "name": "[DEFAULT]",
+                            "automaticDataCollectionEnabled": false
+                        },
+                        "_name": "[DEFAULT]",
+                        "_automaticDataCollectionEnabled": false,
+                        "_container": {
+                            "name": "[DEFAULT]",
+                            "providers": {}
+                        }
+                    },
+                    "databaseId": {
+                        "projectId": "fyp-22205349",
+                        "database": "(default)"
+                    },
+                    "settings": {
+                        "host": "firestore.googleapis.com",
+                        "ssl": true,
+                        "ignoreUndefinedProperties": false,
+                        "cacheSizeBytes": 41943040,
+                        "experimentalForceLongPolling": false,
+                        "experimentalAutoDetectLongPolling": true,
+                        "experimentalLongPollingOptions": {},
+                        "useFetchStreams": true
+                    }
+                }
+            },
+            "email": "hklibrary@gmail.com",
+            "create_at": {
+                "seconds": 1712157103,
+                "nanoseconds": 70000000
+            },
+            "title": "Telling stories around the food bowl",
+            "id": "qIICBRezxykgGmNefdki"
+        },
+        {
+            "use_email": true,
+            "due_date": {
+                "seconds": 1711995180,
+                "nanoseconds": 325000000
+            },
+            "title": "Test 1",
+            "invitation_code": "1QDB9WM997HLT4BR",
+            "email": "",
+            "holder": {
+                "converter": null,
+                "_key": {
+                    "path": {
+                        "segments": [
+                            "projects",
+                            "fyp-22205349",
+                            "databases",
+                            "(default)",
+                            "documents",
+                            "Users",
+                            "lnJbLvKNeBSAcgVzdHTX8EvbW7S2"
+                        ],
+                        "offset": 5,
+                        "len": 2
+                    }
+                },
+                "type": "document",
+                "firestore": {
+                    "app": {
+                        "_isDeleted": false,
+                        "_options": {
+                            "apiKey": "AIzaSyB8apFji3Q2zH30jZBKzOLU-E_Qw20rLNc",
+                            "authDomain": "fyp-22205349.firebaseapp.com",
+                            "projectId": "fyp-22205349",
+                            "storageBucket": "fyp-22205349.appspot.com",
+                            "messagingSenderId": "533140308687",
+                            "appId": "1:533140308687:web:3686b2a74cc0f3f11b2dba"
+                        },
+                        "_config": {
+                            "name": "[DEFAULT]",
+                            "automaticDataCollectionEnabled": false
+                        },
+                        "_name": "[DEFAULT]",
+                        "_automaticDataCollectionEnabled": false,
+                        "_container": {
+                            "name": "[DEFAULT]",
+                            "providers": {}
+                        }
+                    },
+                    "databaseId": {
+                        "projectId": "fyp-22205349",
+                        "database": "(default)"
+                    },
+                    "settings": {
+                        "host": "firestore.googleapis.com",
+                        "ssl": true,
+                        "ignoreUndefinedProperties": false,
+                        "cacheSizeBytes": 41943040,
+                        "experimentalForceLongPolling": false,
+                        "experimentalAutoDetectLongPolling": true,
+                        "experimentalLongPollingOptions": {},
+                        "useFetchStreams": true
+                    }
+                }
+            },
+            "create_at": {
+                "seconds": 1711736030,
+                "nanoseconds": 327000000
+            },
+            "private": true,
+            "use_contact": true,
+            "contact": "",
+            "description": "Test 1Test 1Test 1Test 1",
+            "event_date": {
+                "seconds": 1712945580,
+                "nanoseconds": 0
+            },
+            "id": "u2ZKcHqanalwD6q6UdmU",
+            "participants": [{
+                "user_id": "2gFwUGSfXqR3l4BymDHwvCDofgJ3",
+                "user": {
+                    "converter": null,
+                    "_key": {
+                        "path": {
+                            "segments": ["projects", "fyp-22205349", "databases", "(default)", "documents", "Users", "2gFwUGSfXqR3l4BymDHwvCDofgJ3"],
+                            "offset": 5,
+                            "len": 2
+                        }
+                    },
+                    "type": "document",
+                    "firestore": {
+                        "app": {
+                            "_isDeleted": false,
+                            "_options": {
+                                "apiKey": "AIzaSyB8apFji3Q2zH30jZBKzOLU-E_Qw20rLNc",
+                                "authDomain": "fyp-22205349.firebaseapp.com",
+                                "projectId": "fyp-22205349",
+                                "storageBucket": "fyp-22205349.appspot.com",
+                                "messagingSenderId": "533140308687",
+                                "appId": "1:533140308687:web:3686b2a74cc0f3f11b2dba"
+                            },
+                            "_config": {
+                                "name": "[DEFAULT]",
+                                "automaticDataCollectionEnabled": false
+                            },
+                            "_name": "[DEFAULT]",
+                            "_automaticDataCollectionEnabled": false,
+                            "_container": {
+                                "name": "[DEFAULT]",
+                                "providers": {}
+                            }
+                        },
+                        "databaseId": {
+                            "projectId": "fyp-22205349",
+                            "database": "(default)"
+                        },
+                        "settings": {
+                            "host": "firestore.googleapis.com",
+                            "ssl": true,
+                            "ignoreUndefinedProperties": false,
+                            "cacheSizeBytes": 41943040,
+                            "experimentalForceLongPolling": false,
+                            "experimentalAutoDetectLongPolling": true,
+                            "experimentalLongPollingOptions": {},
+                            "useFetchStreams": true
+                        }
+                    }
+                },
+                "arrival_time": {
+                    "seconds": 0,
+                    "nanoseconds": 0
+                },
+                "enroll_time": {
+                    "seconds": 1712284566,
+                    "nanoseconds": 517000000
+                },
+                "id": "IJWLB6Om4KwB28be2r3g"
+            }, {
+                "user": {
+                    "converter": null,
+                    "_key": {
+                        "path": {
+                            "segments": ["projects", "fyp-22205349", "databases", "(default)", "documents", "Users", "iOeEiCuxs2fuHvRAKVlkDu8gokb2"],
+                            "offset": 5,
+                            "len": 2
+                        }
+                    },
+                    "type": "document",
+                    "firestore": {
+                        "app": {
+                            "_isDeleted": false,
+                            "_options": {
+                                "apiKey": "AIzaSyB8apFji3Q2zH30jZBKzOLU-E_Qw20rLNc",
+                                "authDomain": "fyp-22205349.firebaseapp.com",
+                                "projectId": "fyp-22205349",
+                                "storageBucket": "fyp-22205349.appspot.com",
+                                "messagingSenderId": "533140308687",
+                                "appId": "1:533140308687:web:3686b2a74cc0f3f11b2dba"
+                            },
+                            "_config": {
+                                "name": "[DEFAULT]",
+                                "automaticDataCollectionEnabled": false
+                            },
+                            "_name": "[DEFAULT]",
+                            "_automaticDataCollectionEnabled": false,
+                            "_container": {
+                                "name": "[DEFAULT]",
+                                "providers": {}
+                            }
+                        },
+                        "databaseId": {
+                            "projectId": "fyp-22205349",
+                            "database": "(default)"
+                        },
+                        "settings": {
+                            "host": "firestore.googleapis.com",
+                            "ssl": true,
+                            "ignoreUndefinedProperties": false,
+                            "cacheSizeBytes": 41943040,
+                            "experimentalForceLongPolling": false,
+                            "experimentalAutoDetectLongPolling": true,
+                            "experimentalLongPollingOptions": {},
+                            "useFetchStreams": true
+                        }
+                    }
+                },
+                "enroll_time": {
+                    "seconds": 1712861459,
+                    "nanoseconds": 89000000
+                },
+                "user_id": "iOeEiCuxs2fuHvRAKVlkDu8gokb2",
+                "arrival_time": {
+                    "seconds": 0,
+                    "nanoseconds": 0
+                },
+                "id": "myTYI95WEjoCbJsCCDbB"
+            }]
+        },
+        {
+            "invitation_code": "90LU96PV6O5V65U1",
+            "private": false,
+            "holder": {
+                "converter": null,
+                "_key": {
+                    "path": {
+                        "segments": [
+                            "projects",
+                            "fyp-22205349",
+                            "databases",
+                            "(default)",
+                            "documents",
+                            "Users",
+                            "lnJbLvKNeBSAcgVzdHTX8EvbW7S2"
+                        ],
+                        "offset": 5,
+                        "len": 2
+                    }
+                },
+                "type": "document",
+                "firestore": {
+                    "app": {
+                        "_isDeleted": false,
+                        "_options": {
+                            "apiKey": "AIzaSyB8apFji3Q2zH30jZBKzOLU-E_Qw20rLNc",
+                            "authDomain": "fyp-22205349.firebaseapp.com",
+                            "projectId": "fyp-22205349",
+                            "storageBucket": "fyp-22205349.appspot.com",
+                            "messagingSenderId": "533140308687",
+                            "appId": "1:533140308687:web:3686b2a74cc0f3f11b2dba"
+                        },
+                        "_config": {
+                            "name": "[DEFAULT]",
+                            "automaticDataCollectionEnabled": false
+                        },
+                        "_name": "[DEFAULT]",
+                        "_automaticDataCollectionEnabled": false,
+                        "_container": {
+                            "name": "[DEFAULT]",
+                            "providers": {}
+                        }
+                    },
+                    "databaseId": {
+                        "projectId": "fyp-22205349",
+                        "database": "(default)"
+                    },
+                    "settings": {
+                        "host": "firestore.googleapis.com",
+                        "ssl": true,
+                        "ignoreUndefinedProperties": false,
+                        "cacheSizeBytes": 41943040,
+                        "experimentalForceLongPolling": false,
+                        "experimentalAutoDetectLongPolling": true,
+                        "experimentalLongPollingOptions": {},
+                        "useFetchStreams": true
+                    }
+                }
+            },
+            "event_date": {
+                "seconds": 1714539600,
+                "nanoseconds": 0
+            },
+            "due_date": {
+                "seconds": 1714060740,
+                "nanoseconds": 0
+            },
+            "description": "What qualifications do you need to become a radio presenter (also known as a DJ)? What makes a radio show that attracts listeners? What strange things will you encounter during the live broadcast? How to prepare endless topics every day? Many people will be curious about questions similar to the above. For this lecture, we have invited a senior radio host to take you into the live broadcast room, uncover the mystery inside, and share the unforgettable memories contained in this small space.<br/><br/>Venue: Sham Shui Po Public Library (Promotion Room)<br/>Speaker: Mr. Liang Jizhang<br/>",
+            "create_at": {
+                "seconds": 1712156429,
+                "nanoseconds": 579000000
+            },
+            "use_email": false,
+            "use_contact": false,
+            "title": "The radio DJ dream back then",
+            "email": "hklibrary@gmail.com",
+            "contact": "22345122",
+            "id": "x51x6kbZOxF8uNxv5Uln"
+        }
+    ]
+}

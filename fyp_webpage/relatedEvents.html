@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="header"></div>
+
+    <div class="main-content">
+        <div class="related-events-container">
+            <div class="filter">
+                <table>
+                    <tr>
+                        <td><label for="keywords">Keywords: </td>
+                        <td><input type="text" id="keywords" placeholder="Place your keywords..."></label></td>
+                    </tr>
+                    <tr>
+                        <td><label for="due-date">Application Due Date: </td>
+                        <td><input type="date" name="due-date" id="due-date"></label></td>
+                    </tr>
+                    <tr>
+                        <td><label for="event-date">Event Date:</td>
+                        <td><input type="date" name="event-date" id="event-date"></label></td>
+                    </tr>
+                    <tr>
+                        <td>Role:</td>
+                        <td>
+                            <label for="holder"><input type="checkbox" name="role" id="holder" value="holder">
+                                Holder</label>
+                            <label for="participant"><input type="checkbox" name="role" id="participant" value="participant">
+                                Participant</label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Nature:</td>
+                        <td>
+                            <label for="public"><input type="checkbox" name="nature" id="public" value="public">
+                                Public</label>
+                            <label for="private"><input type="checkbox" name="nature" id="private" value="private">
+                                Private</label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Event Status:</td>
+                        <td>
+                            <label for="upcoming"><input type="checkbox" name="event-status" id="upcoming" value="upcoming">
+                                Upcoming</label>
+                            <label for="ongoing"><input type="checkbox" name="event-status" id="ongoing" value="ongoing">
+                                Ongoing</label>
+                            <label for="ended"><input type="checkbox" name="event-status" id="ended" value="ended"> Ended</label>
+                        </td>
+                    </tr>
+                </table>
+                <hr>
+            </div>
+
+            <div class="empty-events">
+                No Related Event...
+            </div>
+            
+            <div class="qr-container">
+                <div class="qr">
+                    <h1>Invitation QR Code</h1>
+                    <div class="image">
+                        <img src="" alt="">
+                    </div>
+                    <div class="url"></div>
+                    <button class="copy-btn">Copy</button>
+                    <button class="close-btn">Close</button>
+                </div>
+            </div>
+
+            <div class="event-tables">
+            </div>
+
+            
+        </div>
+    </div>
+
+    <div class="dialogue">
+        <div class="heading">Enrolling New Event</div>
+        <div class="content">
+        </div>
+        <div class="confirm-input">
+            <input type="text" name="confirm" id="confirm">
+        </div>
+        <div class="button">
+            <button class="yes-btn" event_id="">Yes</button>
+            <button class="no-btn" event_id="">No</button>
+        </div>
+    </div>
+
+    <div id="footer"></div>
+
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="./javascript/include.js"></script>
+    <script type="module" src="javascript/firebase.js"></script>
+    <script type="module" src="javascript/relatedEvents.js"></script>
+</body>
+
+</html>

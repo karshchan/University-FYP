@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="header"></div>
+
+    <div class="main-content">
+        <div class="signIn-container">
+            <div class="signIn-image-container">
+                <img src="https://static.vecteezy.com/system/resources/previews/010/925/820/non_2x/colorful-welcome-design-template-free-vector.jpg" class="signIn-image">
+            </div>
+            <div class="signIn-form-container">
+                
+                <form action="./123" method="post" class="signIn-form">
+                    <span class="signIn-text">Sign In</span>
+
+                    <div class="input-box" >
+                        <ion-icon name="mail-outline"></ion-icon>
+                        <input type="email" name="email" id="email" placeholder="" required>
+                        <span class="info-title">Email</span>
+                    </div>
+
+                    <div class="input-box" >
+                        <ion-icon name="lock-closed-outline"></ion-icon>
+                        <input type="password" name="password" placeholder="" id="password" required>
+                        <span class="info-title">Password</span><br>
+                    </div>
+
+                    <div class="other">
+                        <span class="error-message">Email or Password is invalid!</span><br>
+                        <div>
+                            <!-- <span><label for="remember-me"> <input type="checkbox" name="remember-me" id="remember-me"> Remember Me</label></span> -->
+                            <span><a href="" class="forget-password">Forget Password</a></span>
+                        </div>
+                    </div>
+
+                    <div>
+                        <button type="button" id="btn-signIn">
+                            Sign In
+                    </div>
+                    
+                </form>
+                <a href="./profileForm.html?type=register" class="register-link">Register Now...</a>
+            </div>
+        </div>
+    </div>
+
+    <div id="footer"></div>
+
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="./javascript/include.js"></script> 
+
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+    <!-- <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore-compat.js"></script> -->
+    <script type="module" src="javascript/firebase.js"></script>
+    <script type="module" src="javascript/signIn.js"></script>
+    
+</body>
+</html>

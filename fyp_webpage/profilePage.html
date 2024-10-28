@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <div id="header"></div>
+  
+  <div class="main-content">
+
+    
+    <div class="profile-container">
+
+        <!-- contain function that about the event -->
+        <div class="function-container">
+
+            <a href="relatedEvents.html">
+                <div class="function-row">
+                    Related Events
+                    <span></span>
+                </div>
+            </a>
+
+
+            <a href="eventForm.html?type=create">
+                <div class="function-row">
+                    Create Event
+                    <span></span>
+                </div>
+            </a>
+        </div>
+
+        <!-- contain user information and some modify action -->
+        <div class="private-container">
+
+
+            <a href="profileForm.html?type=change-pf">
+                <div class="function-row">
+                    Change Profile
+                    <span></span>
+                </div>
+            </a>
+            <a href="profileForm.html?type=change-email">
+                <div class="function-row">
+                   Change Email
+                    <span></span>
+                </div>
+            </a>
+            <a href="profileForm.html?type=change-pw">
+                <div class="function-row">
+                   Change Password
+                    <span></span>
+                </div>
+            </a>
+        </div>
+
+    </div>
+
+  </div>
+
+  <div id="footer"></div>
+
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="./javascript/include.js"></script> 
+  <script type="module" src="javascript/firebase.js"></script>
+  <script type="module" src="javascript/profilePage.js"></script>
+
+</body>
+</html>

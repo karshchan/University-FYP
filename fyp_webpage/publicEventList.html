@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <div id="header"></div>
+  
+  <div class="main-content">
+      <div class="public-event-list">
+        <div class="filter">
+          <table>
+              <tr>
+                  <td><label for="keywords">Keywords: </td>
+                  <td><input type="text" id="keywords" placeholder="Place your keywords..."></label></td>
+              </tr>
+              <tr>
+                  <td><label for="due-date">Application Due Date: </td>
+                  <td><input type="date" name="due-date" id="due-date"></label></td>
+              </tr>
+              <tr>
+                  <td><label for="event-date">Event Date:</td>
+                  <td><input type="date" name="event-date" id="event-date"></label></td>
+              </tr>
+          </table>
+          <hr>
+      </div>
+
+      <div class="empty-events">
+        No Public Event ... 
+    </div>
+
+      <div class="event-list-container">
+      </div>
+
+      </div>
+  </div>
+
+  <div id="footer"></div>
+
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="./javascript/include.js"></script> 
+
+  <script type="module" src="javascript/getPublicEvent.js"></script>
+</body>
+</html>

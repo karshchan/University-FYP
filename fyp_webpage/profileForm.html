@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id="header"></div>
+
+    <div class="main-content">
+       <div id="sign-up-container">
+            <form action="" method="post" class="input-form">
+                <span class="form-title">Sign Up</span>
+
+                <div class="input-data">
+                    <div class="input-box">
+                        <label for="first-name">First Name</label>
+                        <input type="text" id="first-name" name="first-name" required>
+    
+                        <label for="last-name">Last Name</label>
+                        <input type="text" id="last-name" name="last-name" required>
+                    </div>
+                            
+                    <div class="input-box toggle-btn">
+                        <label for="personal">
+                            <span>Personal Use</span>
+                            <input type="checkbox" id="personal" name="personal" class="toggle" checked>
+                            <span class="slider"></span>
+                        </label>
+
+                    </div>
+                    <div class="input-box deactive">
+                        <label for="company-name">Organization Name</label>
+                        <input type="text" id="company-name" name="company-name" readonly>
+                    </div>
+                    <div class="input-box deactive">
+                        <label for="company-address">Organization Address</label>
+                        <input type="text" id="company-address" name="company-address" readonly>
+                    </div>
+                    <div class="input-box">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="input-box">
+                        <label for="contact">Contact Number</label>
+                        <input type="text" id="contact" name="contact">
+                    </div>
+
+                    <div class="input-box">
+                        <label for="old-password">Old Password</label>
+                        <input type="password" id="old-password" name="old-password" required>
+                        <ion-icon name="eye-off-outline" target="old-password"></ion-icon>
+                    </div>
+
+                    <div class="input-box">
+                        <label for="password">Password</label>
+                        <input type="password" id="password" name="password" required>
+                        <ion-icon name="eye-off-outline" target="password"></ion-icon>
+                        <div class="reminder-group">
+                            <span>Your password should contain the following requirement:</span>
+                                <ul>
+                                    <li>8 to 16 characters</li>
+                                    <li>should be alphanumeric</li>
+                                    <li>at least one special characters: !, @, #, $, %, &</li>
+                                    <li>at least one upper case character</li>
+                                    <li>at least one lower case character</li>
+                                </ul>
+                        </div>
+                    </div>
+                    <div class="input-box">
+                        <label for="confirm-password">Confirm Password</label>
+                        <input type="password" id="confirm-password" name="confirm-password" required>
+                        <ion-icon name="eye-off-outline" target="confirm-password"></ion-icon>
+                        <div class="reminder-group">
+                            <span>*Password is not correct</span>
+                        </div>
+                    </div>
+
+                    <div>
+                        <button class="submit-btn" type="button">
+                            Register
+                        </button>
+                    </div>
+                </div>
+            </form>
+       </div>
+    </div>
+
+    <div id="footer"></div>
+
+    <script type="module" src="javascript/firebase.js"></script>
+
+    <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+    <script src="./javascript/include.js"></script> 
+    <script type="module" src="./javascript/sign-up-form.js"></script> 
+
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+</body>
+</html>

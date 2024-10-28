@@ -1,0 +1,42 @@
+<link rel="stylesheet" href="css/index.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap" rel="stylesheet">
+
+<div class="left-nav">
+    <a href="./index.html" id="logo">Welcome</a>
+</div>
+<div class="right-nav">
+    <div>
+        <a href="index.html">About Us</a>
+    </div>
+    <div>
+        <a href="publicEventList.html">Public Events</a>
+    </div>
+    <!-- <div>
+        <a href="signIn.html">Sign In</a>
+    </div> -->
+    <!-- <div>
+        <a href="profilePage.html">Profile</a>
+    </div>
+    <div>
+        <a href="signOut.html">Sign Out</a>
+    </div> -->
+</div>
+
+<script>
+    const right_nav = document.querySelector(".right-nav")
+    const signedIn = localStorage.getItem("fyp-signIn")
+    
+    if (signedIn == "true") {
+        right_nav.innerHTML += `<div> <a href="profilePage.html">Profile</a>
+    </div>
+    <div>
+        <a href="signOut.html">Sign Out</a>
+    </div>`
+    } else {
+        right_nav.innerHTML += ` <div> <a href="signIn.html">Sign In</a>
+    </div> `
+    }
+
+</script>
